@@ -36,13 +36,13 @@
                     <fieldset>
                         <legend>Dados de Nascimento</legend>
                             <label for="">País:</label> 
-                                &emsp;&emsp;&emsp;&ensp;
+                                &emsp;&emsp;&emsp;&ensp;&ensp;
 
                             <label for="">UF:</label> 
-                                &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+                                &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;
 
                             <label for="">Cidade:</label> 
-                                &emsp;&emsp;&emsp;&emsp;&emsp;
+                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
                             <label for="">Data:</label> <br>
 
@@ -92,7 +92,7 @@
                                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 
                             <label for="orgao">Órgão Emissor:</label>
-                                &emsp;&emsp;&emsp;&emsp;&emsp;
+                                &emsp;&emsp;&emsp;&emsp;
 
                             <label for="uf">UF:</label>
                                 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
@@ -209,8 +209,10 @@
                                 <option value="pa">Pará</option>
                                 <option value="par">Paraíba</option>
                                 <option value="para">Paraná</option>
-                            </select> &ensp;
-                            <input type="text"size="8"> &nbsp;
+                            </select> 
+                                &ensp;
+                            <input type="text"size="8"> 
+                                &nbsp;
                             <input type="text" maxlength="8" size="23"> <br>
 
                             <label for="ddd">DDD:</label>
@@ -308,8 +310,10 @@
                                 <option value="pa">Pará</option>
                                 <option value="par">Paraíba</option>
                                 <option value="para">Paraná</option>
-                            </select> &ensp;
-                            <input type="text"size="8"> &nbsp;
+                            </select> 
+                                &ensp;
+                            <input type="text"size="8"> 
+                                &nbsp;
                             <input type="text" maxlength="8" size="23"> <br>
 
                             <label for="ddd">DDD:</label>
@@ -456,7 +460,8 @@
                                 <select name="m" size="1">
                                     <option value="anterior">Anterior</option>
                                     <option value="atual">Atual</option>
-                                </select> &nbsp;
+                                </select> 
+                                    &nbsp;
                             <label for="mes">Mês</label>
                                 <input type="text" size="5" maxlength="14">
                             <label for="mes">Mês</label>
