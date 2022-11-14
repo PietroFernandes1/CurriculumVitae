@@ -28,9 +28,9 @@
                                     <option value="br">Brasileira</option>
                                     <option value="fora">Estrangeira</option>
                                 </select> &emsp;
-                                    <input type="text"> 
+                                    <input type="text" size="12"> 
                                         &ensp;
-                                    <input type="text">
+                                    <input type="text" size="12">
                     </fieldset>
 
                     <fieldset>
