@@ -213,10 +213,10 @@
                             </select> 
                                 &ensp;
                         
-                            <inpunt type="text" maxlength="8">
+                            <inpunt type="text">
                                 &nbsp;
                         
-                            <input type="text" maxlength="8" size="23">
+                            <input type="text">
                                 <br>
 
                             <label for="ddd">DDD:</label>
@@ -242,8 +242,8 @@
                                 <br>
 
                             <input type="text" size="36">
-                        
-                            <input type="text"size="28">
+                            <input type="text" size="30">
+                                
 
                     </fieldset>
 
@@ -322,7 +322,7 @@
                             <inpunt type="text" maxlength="8">
                                 &nbsp;
                         
-                            <input type="text" maxlength="8" size="23 
+                            <input type="text">
                                 <br>
 
                             <label for="ddd">DDD:</label>
@@ -347,7 +347,8 @@
                             <label for="email">E-mail:</label> <br>
 
                             <input type="text" size="36">
-                            <input type="text"size="28">
+                                                        
+                            <input type="text" size="30">
 
                     </fieldset>
 
