@@ -213,10 +213,10 @@
                             </select> 
                                 &ensp;
                         
-                            <input type="text"size="8"> 
+                            <inpunt type="text" maxlength="8">
                                 &nbsp;
                         
-                            <input type="text" maxlength="8" size="23"> 
+                            <input type="text" maxlength="8" size="23">
                                 <br>
 
                             <label for="ddd">DDD:</label>
@@ -319,10 +319,10 @@
                             </select> 
                                 &ensp;
                         
-                            <input type="text"size="8"> 
+                            <inpunt type="text" maxlength="8">
                                 &nbsp;
                         
-                            <input type="text" maxlength="8" size="23"> 
+                            <input type="text" maxlength="8" size="23 
                                 <br>
 
                             <label for="ddd">DDD:</label>
