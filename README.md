@@ -212,9 +212,12 @@
                                 <option value="para">Paraná</option>
                             </select> 
                                 &ensp;
+                        
                             <input type="text"size="8"> 
                                 &nbsp;
-                            <input type="text" maxlength="8" size="23"> <br>
+                        
+                            <input type="text" maxlength="8" size="23"> 
+                                <br>
 
                             <label for="ddd">DDD:</label>
                                 &ensp;&nbsp;
@@ -315,9 +318,12 @@
                                 <option value="para">Paraná</option>
                             </select> 
                                 &ensp;
+                        
                             <input type="text"size="8"> 
                                 &nbsp;
-                            <input type="text" maxlength="8" size="23"> <br>
+                        
+                            <input type="text" maxlength="8" size="23"> 
+                                <br>
 
                             <label for="ddd">DDD:</label>
                                 &ensp;&nbsp;
