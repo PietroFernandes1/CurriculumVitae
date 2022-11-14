@@ -168,16 +168,17 @@
                                 <option value="">Rua 15 de Outubro</option>
                             </select>
                             <input type="text">
-                            <input type="text"> <br>
+                            <input type="text"> 
+                                <br>
 
                             <label for="pais">País:</label>
-                                &emsp;&emsp;&emsp;&ensp;
+                                &emsp;&emsp;&emsp;&ensp;&ensp;
 
                             <label for="uf">UF:</label>
-                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
                             <label for="cidade">Cidade:</label>
-                                &emsp;&emsp;&emsp;&nbsp;
+                                &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;
                             
                             <label for="cep">CEP:</label> <br>
 
@@ -234,9 +235,11 @@
                             <label for="home">Homepage Pessoal:</label>
                                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 
-                            <label for="email">E-mail:</label> <br>
+                            <label for="email">E-mail:</label> 
+                                <br>
 
                             <input type="text" size="36">
+                        
                             <input type="text"size="28">
 
                     </fieldset>
@@ -275,10 +278,10 @@
                                 &emsp;&emsp;&emsp;&ensp;
 
                             <label for="uf">UF:</label>
-                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
                             <label for="cidade">Cidade:</label>
-                                &emsp;&emsp;&emsp;&nbsp;
+                                &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;
                             
                             <label for="cep">CEP:</label> <br>
 
