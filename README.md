@@ -446,15 +446,15 @@
 
                     <fieldset>
                         <legend>Atividades Exercidas na Instituição</legend>
-                            <input type="checkbox">Conselhos,Comissões e Consultoria <br>
-                            <input type="checkbox">Direção e Administração <br>
-                            <input type="checkbox">Ensino <br>
-                            <input type="checkbox">Estágio <br>
-                            <input type="checkbox">Extensão Universitária <br>
-                            <input type="checkbox">Pesquisa e Desenvolvimento <br>
-                            <input type="checkbox">Serviços Técnicos e Especializados <br>
-                            <input type="checkbox">Treinamentos Ministrados <br>
-                            <input type="checkbox">Outras Atividade Técnico-Científicas <br>
+                            <input type="checkbox" id="sis">Conselhos,Comissões e Consultoria <br>
+                            <input type="checkbox" id="sis">Direção e Administração <br>
+                            <input type="checkbox" id="sis">Ensino <br>
+                            <input type="checkbox" id="sis">Estágio <br>
+                            <input type="checkbox" id="sis">Extensão Universitária <br>
+                            <input type="checkbox" id="sis">Pesquisa e Desenvolvimento <br>
+                            <input type="checkbox" id="sis">Serviços Técnicos e Especializados <br>
+                            <input type="checkbox" id="sis">Treinamentos Ministrados <br>
+                            <input type="checkbox" id="sis">Outras Atividade Técnico-Científicas <br>
                     </fieldset>
 
                     <fieldset>
@@ -497,12 +497,12 @@
                                 <input type="checkbox">Trabalhador Avulso <br>
                                 <input type="checkbox">Trabalhador Temporário <br>
 
-                    </fieldset>
-            </fieldset>
+                </fieldset>
+                        </fieldset>
                     
     
 
-    </form>
+                        </form>
     
-</body>
-</html>
+                </body>
+        </html>
